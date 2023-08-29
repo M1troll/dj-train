@@ -1,0 +1,8 @@
+## Django
+django
+
+# filter querysets dynamically
+django-filter
+
+# configure setting with env variables
+django-environ
